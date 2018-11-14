@@ -9,8 +9,6 @@ Pedram Akbarian
 Secure Communication Lab (SCL),
 University of Tehran, Summer 2017
 
-[Poster & Presentation Slides](https://www.kdd.in.tum.de/nettack)
-
 This implementation is written in Python 3 and uses Pytorch.
 ## Requirements
 * `numpy`
