@@ -1,7 +1,26 @@
-This is an Implementation of 
-[On Classification of Distorted Images with Deep Convolutional Neural Networks]
-by {Zhou, Yiren Song, Sibo Cheung, Ngai-Man}
+# On classification of distorted images with deep convolutional neural networks
 
-How to Run the Program?
-	to run the program, you should first open a terminal in the main path directory,
-	and then run the "ui.sh" by typing "bash ui.sh" in terminal.
+Implementation of:   
+**[On classification of distorted images with deep convolutional neural networks](https://ieeexplore.ieee.org/document/7952349)**
+ 
+
+  
+Pedram Akbarian 
+Secure Communication Lab (SCL),
+University of Tehran, Summer 2017
+
+[Poster & Presentation Slides](https://www.kdd.in.tum.de/nettack)
+
+This implementation is written in Python 3 and uses Pytorch.
+## Requirements
+* `numpy`
+* `scipy`
+* `matplotlib`
+* `pytorch`
+
+## Run the code
+ `bash ui.sh`
+  
+## Contact
+Please contact pe.akbarian@ut.ac.ir in case you have any questions.
+
